@@ -1,0 +1,20 @@
+export const fonts ={
+    DMSansBlack:'DMSans-Black',
+    DMSansBlackItalic:'DMSans-BlackItalic',
+    DMSansBold:'DMSans-Bold',
+    DMSansBoldItalic:'DMSans-BoldItalic',
+    DMSansExtraBoldItalic:'DMSans-ExtraBoldItalic',
+    DMSansExtraBold:'DMSans-ExtraBold',
+    DMSansExtraLight:'DMSans-ExtraLight',
+    DMSansExtraLightItalic:'DMSans-ExtraLightItalic',
+    DMSansItalic:'DMSans-Italic',
+    DMSansLight:'DMSans-Light',
+    DMSansLightItalic:'DMSans-LightItalic',
+    DMSansMedium:'DMSans-Medium',
+    DMSansMediumItalic:'DMSans-MediumItalic',
+    DMSansRegular:'DMSans-Regular',
+    DMSansSemiBold:'DMSans-SemiBold',
+    DMSansSemiBoldItalic:'DMSans-SemiBoldItalic',
+    DMSansThin:'DMSans-Thin',
+    DMSansThinItalic:'DMSans-ThinItalic'
+}
